@@ -1,0 +1,11 @@
+C:\Users\xu han\source\repos\wechatApi\wechatApi\bin\Release\netcoreapp2.0\wechatApi.deps.json
+C:\Users\xu han\source\repos\wechatApi\wechatApi\bin\Release\netcoreapp2.0\wechatApi.runtimeconfig.json
+C:\Users\xu han\source\repos\wechatApi\wechatApi\bin\Release\netcoreapp2.0\wechatApi.runtimeconfig.dev.json
+C:\Users\xu han\source\repos\wechatApi\wechatApi\bin\Release\netcoreapp2.0\wechatApi.dll
+C:\Users\xu han\source\repos\wechatApi\wechatApi\bin\Release\netcoreapp2.0\wechatApi.pdb
+C:\Users\xu han\source\repos\wechatApi\wechatApi\obj\Release\netcoreapp2.0\wechatApi.csproj.CoreCompileInputs.cache
+C:\Users\xu han\source\repos\wechatApi\wechatApi\obj\Release\netcoreapp2.0\wechatApi.AssemblyInfoInputs.cache
+C:\Users\xu han\source\repos\wechatApi\wechatApi\obj\Release\netcoreapp2.0\wechatApi.AssemblyInfo.cs
+C:\Users\xu han\source\repos\wechatApi\wechatApi\obj\Release\netcoreapp2.0\wechatApi.dll
+C:\Users\xu han\source\repos\wechatApi\wechatApi\obj\Release\netcoreapp2.0\wechatApi.pdb
+C:\Users\xu han\source\repos\wechatApi\wechatApi\obj\Release\netcoreapp2.0\wechatApi.csprojAssemblyReference.cache
